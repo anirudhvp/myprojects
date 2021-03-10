@@ -1,0 +1,9 @@
+body{
+    background: linear-gradeint()
+}
+#mycarousel{
+    background-color: darkgoldenrod;
+}
+.container{
+    text-align: center;
+}
